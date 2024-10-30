@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ge7xl9gle-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/ge7xl9gle-java-springboot-gitops
